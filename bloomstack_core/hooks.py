@@ -10,7 +10,7 @@ app_icon = "octicon octicon-gear"
 app_color = "light green"
 app_email = "developers@bloomstack.com"
 app_license = "MIT"
-app_logo_url = '/assets/bloomstack_core/images/icon.png'
+app_logo_url = ''
 
 
 # Set setup defaults
@@ -21,8 +21,8 @@ setup_wizard_stages = "bloomstack_core.setup.setup_wizard.get_setup_stages"
 login_mail_title = "New Bloomstack Account"
 error_report_email = "support@bloomstack.com"
 website_context = {
-	"favicon": "/assets/bloomstack_core/images/favicon.ico",
-	"splash_image": "/assets/bloomstack_core/images/splash.png"
+	"favicon": "",
+	"splash_image": ""
 }
 
 # Includes in <head>
